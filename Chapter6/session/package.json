@@ -1,0 +1,17 @@
+{
+  "name": "session",
+  "version": "1.0.0",
+  "main": "session.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "session": "^0.1.0"
+  }
+}
