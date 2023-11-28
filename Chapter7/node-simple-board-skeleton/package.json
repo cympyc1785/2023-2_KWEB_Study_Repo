@@ -15,7 +15,8 @@
     "express-session": "^1.17.2",
     "morgan": "^1.10.0",
     "mysql2": "^2.3.0",
-    "pug": "^3.0.2"
+    "pug": "^3.0.2",
+    "session": "^0.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
